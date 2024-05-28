@@ -8,21 +8,20 @@ An enthusiastic and purposeful IT professional with over 3 years of experience i
 
 ## EDUCATION
 * **Lincoln University College (Malaysia - ETVA)**
-  * Executive Diploma in Cyber Security (Present)
+  * [![Executive Diploma in Cyber Security (Present)](https://img.shields.io/badge/Executive%20Diploma%20in%20Cyber%20Security%20(Present)-0072C6?style=flat)](YourLinkHere)
     
 * **Dagon University (Myanmar)**
-  * Bachelor of Science in Zoology (2016-2019)
+  * [![Bachelor of Science in Zoology](https://img.shields.io/badge/Bachelor%20of%20Science%20in%20Zoology-0072C6?style=flat)](YourLinkHere)
     
 * **BEHS(2)Kamayut, Augustine (Myanmar)**
-  * Matriculation Exam Pass (2015)
-
+  * [![Matriculation Exam](https://img.shields.io/badge/Matriculation%20Exam-0072C6?style=flat)](YourLinkHere)
 
 ## CERTIFICATIONS
-[![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-red?style=flat&logo=CompTIA)](YourLinkHere)
-[![CCNA (200-301)](https://img.shields.io/badge/CCNA%20(200--301)-skyblue?style=flat&logo=cisco)](YourLinkHere)
-[![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-green?style=flat&logo=Google)](YourLinkHere)
-[![elearning.securityblue.team(BTJA)](https://img.shields.io/badge/elearning.securityblue.team(BTJA)-darkblue?style=flat)](https://elearning.securityblue.team/BTJA)
-[![KQL for Security Analysis](https://img.shields.io/badge/-KQL%20for%20Security%20Analysis-blue?style=flat&logo=Microsoft)](YourLinkHere)
+* [![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-red?style=flat&logo=CompTIA)](YourLinkHere)
+* [![CCNA (200-301)](https://img.shields.io/badge/CCNA%20(200--301)-skyblue?style=flat&logo=cisco)](YourLinkHere)
+* [![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-green?style=flat&logo=Google)](YourLinkHere)
+* [![elearning.securityblue.team(BTJA)](https://img.shields.io/badge/elearning.securityblue.team(BTJA)-darkblue?style=flat)](https://elearning.securityblue.team/BTJA)
+* [![KQL for Security Analysis](https://img.shields.io/badge/-KQL%20for%20Security%20Analysis-blue?style=flat&logo=Microsoft)](YourLinkHere)
 
 ## TOOLS
 [![Microsoft Azure Sentinel](https://img.shields.io/badge/Microsoft%20Azure%20Sentinel-0072C6?style=flat&logo=microsoft-azure)](YourLinkHere)
