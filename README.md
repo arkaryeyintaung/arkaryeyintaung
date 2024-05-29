@@ -1,6 +1,6 @@
 # Hello, I'm DYLAN
 
-git config --global user.name "Dylan"
+#git config --global user.name "Dylan"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkar-ye-yint-aung/)
 
