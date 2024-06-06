@@ -18,6 +18,9 @@ An enthusiastic and purposeful IT professional with over 3 years of experience i
 
 ## CERTIFICATIONS
 * [![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-red?style=flat&logo=CompTIA)](YourLinkHere)
+[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/15598107/CompTIA.Security%2B.ce.certificate.pdf)
+
+* 
 * [![CCNA (200-301)](https://img.shields.io/badge/CCNA%20(200--301)-skyblue?style=flat&logo=cisco)](YourLinkHere)
 * [![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-green?style=flat&logo=Google)](YourLinkHere)
 * [![elearning.securityblue.team(BTJA)](https://img.shields.io/badge/elearning.securityblue.team(BTJA)-darkblue?style=flat)](https://elearning.securityblue.team/BTJA)
