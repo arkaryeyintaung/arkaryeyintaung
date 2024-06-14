@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkar-ye-yint-aung/)
 
-An enthusiastic and purposeful IT professional with over 3 years of experience in network operations, cybersecurity, and IT support, skilled in SOC analysis, incident response, and network monitoring, dedicated to leveraging technical expertise to protect organizational assets and mitigate cybersecurity risks with a proven record of implementing and maintaining robust security measures.
+Experienced IT professional with 3+ years in SOC Analyst, NOC engineering, and IT support. Proficient in security operations, network monitoring, technical troubleshooting, and various tools. Dedicated to enhancing security and optimizing IT infrastructure. Seeking a challenging role in a progressive company.
 
 
 
